@@ -199,7 +199,11 @@ button:disabled {
         margin-bottom: 8px;
         margin-right: 0;
     }
-    .compose button {
+    .compose > button {
+        width: 80%;
+    }
+    .compose > form > button {
+        margin-bottom: 8px;
         width: 80%;
     }
 }
