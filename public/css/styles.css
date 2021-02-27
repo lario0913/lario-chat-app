@@ -197,5 +197,9 @@ button:disabled {
 
     .compose input {
         margin-bottom: 8px;
+        margin-right: 0;
+    }
+    .compose button {
+        width: 80%;
     }
 }
