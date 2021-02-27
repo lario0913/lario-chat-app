@@ -139,7 +139,9 @@ button:disabled {
     display: flex;
     flex-shrink: 0;
     margin-top: 16px;
+    margin-bottom: 10px;
     padding: 24px;
+    flex-direction: column;
 }
 
 .compose form {
